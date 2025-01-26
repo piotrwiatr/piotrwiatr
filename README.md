@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and the limits of human ingenuity.\
-🎓 &nbsp;I'm currently a third-year Computer Science student at McMaster University.\
+🎓 &nbsp;I'm currently a third-year Computer Science student at McMaster University.
 
 ### 🛠 &nbsp;Some skills I have
 
