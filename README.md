@@ -1,4 +1,6 @@
-## Hi there 👋
+## &nbsp;Hey there, I'm Piotr Wiatr 👋
+
+### &nbsp;About Me
 
 <!--
 **piotrwiatr/piotrwiatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
