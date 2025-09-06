@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and the limits of human ingenuity.\
-🎓 &nbsp;I'm currently a third-year Computer Science student at McMaster University.
+💡 &nbsp;I'm a software developer and fourth-year CS student at McMaster University.\
+🎓 &nbsp;I'm primarily interested in web development, backend programming, and quantum computing.
 
 ### 🛠 &nbsp;Some skills I have
 
