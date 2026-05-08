@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a software developer and fourth-year CS student at McMaster University.\
-🎓 &nbsp;I'm primarily interested in web development, backend programming, and quantum computing.
+💡 &nbsp;I'm a PhD student at McMaster University.\
+🎓 &nbsp;I'm primarily interested in smart system, machine learning, and quantum computing.
 
 ### 🛠 &nbsp;Some skills I have
 
