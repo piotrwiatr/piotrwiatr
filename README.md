@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a PhD student at McMaster University.\
-🎓 &nbsp;I'm primarily interested in smart system, machine learning, and quantum computing.
+🎓 &nbsp;I'm primarily interested in smart systems, machine learning, and quantum computing.
 
 ### 🛠 &nbsp;Some skills I have
 
